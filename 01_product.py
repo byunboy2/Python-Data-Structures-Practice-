@@ -7,3 +7,8 @@ def product(a, b):
         >>> product(2, -2)
         -4
     """
+    # Returns product of a and b
+    return a * b
+
+
+print(product(2,2))
