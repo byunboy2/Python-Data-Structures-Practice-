@@ -10,8 +10,3 @@ def frequency(lst, search_term):
 
     return lst.count(search_term)
 
-    #  count = 0
-    #for num in lst :
-     #   if(search_term==num):
-      #      count+=1
-    #return count
